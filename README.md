@@ -1,8 +1,8 @@
-# Palette Adjust
+# KayKit Palette Adjust
 
 A Godot 4 material for recolouring palette-textured models one swatch at a time.
 
-I made this for the [KayKit](https://kaylousberg.com) asset packs by **Kay Lousberg**. KayKit models are all coloured from one palette texture, a grid of colour swatches, and this lets you tweak each swatch on its own without touching the texture.
+I made this for the [KayKit](https://kaylousberg.com) asset packs by **Kay Lousberg**. KayKit models are all coloured from one palette texture, a grid of colour swatches, and this lets you tweak each swatch on its own without touching the texture. (Not an official KayKit thing, just a fan-made tool.)
 
 ![Darkening one swatch on a KayKit floor tile](docs/demo.gif)
 
